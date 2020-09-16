@@ -1,0 +1,60 @@
+body {
+    background-image: url("../Background/background_crud.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+.form-category {
+    position: absolute;
+    top: 10%;
+    right: 35%;
+    left: 35%;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    width: auto;
+    height: auto;
+    box-shadow: 5px 5px;
+    padding: 30px;
+}
+
+.button {
+    position: relative;
+    left: 10%;
+    display: inline;
+}
+
+#name-admin {
+    text-align: left;
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+#button-logout {
+    float: right;
+}
+
+h2,
+div {
+    text-align: center;
+}
+
+
+.form-product {
+    position: absolute;
+    top: 10%;
+    right: 25%;
+    left: 20%;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    height: auto;
+    box-shadow: 5px 5px;
+    padding: 30px;
+    width: 70%;
+}
+
+textarea{
+    resize: vertical;
+}

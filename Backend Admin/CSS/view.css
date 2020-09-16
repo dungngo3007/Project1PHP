@@ -1,0 +1,31 @@
+body {
+    background-image: url("../Background/background_crud.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.button {
+    position: relative;
+    left: 10%;
+    display: inline;
+}
+
+#name-admin {
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+#button-logout {
+    float: right;
+}
+
+h2 {
+    text-align: center;
+}
+
+.validate {
+    color: red;
+}
+

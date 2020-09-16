@@ -1,0 +1,21 @@
+body {
+    background-image: url("../Background/background-indexad.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#name-admin {
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+
+#button-logout {
+    float: right;
+}
+
+h2 {
+    text-align: center;
+}

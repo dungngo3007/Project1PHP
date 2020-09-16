@@ -1,0 +1,48 @@
+body {
+    background-image: url("../Background/background-indexad.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#name-admin {
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+
+#button-logout {
+    float: right;
+}
+
+h2 {
+    text-align: center;
+}
+
+.manager {
+    position: relative;
+    background-color: whitesmoke;
+    height: 150px;
+    padding: 10px 10px 10px 20px;
+    border: 1px solid black;
+    border-radius:5px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.number {
+    font-size: 15px;
+}
+
+a {
+    position: absolute;
+    bottom: 20px;
+}
+
+
+
+
